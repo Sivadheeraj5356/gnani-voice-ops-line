@@ -70,7 +70,9 @@ Point a telephony provider's recording webhook at `/webhook/recording`.
 
 ## Submission checklist
 
-- [x] Working app on Gnani models/APIs (Prisma + Timbre named above)
+- [x] App built against the documented Gnani APIs (Prisma + Timbre named
+  above); runs offline on a mock provider - live API exercise pending
+  registration credits
 - [ ] 60-second demo video: one Hinglish call in, dashboard updates live
 - [ ] Public post on LinkedIn or X tagging Gnani AI with
   #GreatIndianAIInternshipChallenge and #GnaniAI
